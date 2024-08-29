@@ -8,3 +8,7 @@ This repository is set up for work by PhD Student, Tanner Mierow, at the Univers
 # Enjoy some pictures from my research!
 ![Toebiter SEM](1.png)
 ![Alpheus bellulus](DSC_0245.png)
+
+# Assignment
+[test.sbatch](test.sbatch)
+[test.sh](test.sh)
