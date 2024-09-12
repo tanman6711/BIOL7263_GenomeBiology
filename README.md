@@ -15,6 +15,7 @@ Class 1 - August 29th
 [test.sh](test.sh)
 
 Class 2 - September 5th
+[]
 
 Class 3 - September 12th
-[Proposal](BIOL 7263 Proposal - TM.pdf)
+[Proposal](proposal.pdf)
