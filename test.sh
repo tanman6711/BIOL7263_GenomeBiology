@@ -1,0 +1,1 @@
+echo "hello world, this class scares me" > hello.txt
