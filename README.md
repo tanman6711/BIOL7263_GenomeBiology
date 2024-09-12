@@ -25,3 +25,5 @@ Class 3 - September 12th
 [Proposal](proposal.pdf)
 [Task 2 sbatch](ecoli_trim.sbatch)
 [Task 2 sh](ecoli_trim.sh)
+[Task 5 sbatch](ecoli_index.sbatch)
+[Task 5 sh](ecoli_index.sh)
