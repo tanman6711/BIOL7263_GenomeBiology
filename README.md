@@ -15,6 +15,7 @@ Class 1 - August 29th
 [test.sh](test.sh)
 
 Class 2 - September 5th
+Task 1
 [ecoli_fast1c.sbatch](ecoli_fastqc.sbatch)
 [ecoli_fastqc.sh](ecoli_fastqc.sh)
 [read 1 html](read_1_fastqc.html)
@@ -22,3 +23,5 @@ Class 2 - September 5th
 
 Class 3 - September 12th
 [Proposal](proposal.pdf)
+[Task 2 sbatch](ecoli_trim.sbatch)
+[Task 2 sh](ecoli_trim.sh)
