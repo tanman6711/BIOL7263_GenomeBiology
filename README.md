@@ -27,3 +27,5 @@ Class 3 - September 12th
 [Task 2 sh](ecoli_trim.sh)
 [Task 5 sbatch](ecoli_index.sbatch)
 [Task 5 sh](ecoli_index.sh)
+[Task 6 sbatch](ecoli_bwa_mem.sbatch)
+[Task 6 sh](ecoli_bwa_mem.sh)
