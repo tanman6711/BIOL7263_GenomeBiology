@@ -1,0 +1,1 @@
+qualimap bamqc -outdir /scratch/biol726307/BIOL7263_Genomics/sequencing_data/ecoli/mapping_to_reference/bamqc
