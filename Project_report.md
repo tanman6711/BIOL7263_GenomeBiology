@@ -1,5 +1,5 @@
 # Final project report  
-Title: Opsins and differentially expressed phototransduction genes in Alpheus heterochaelis  
+# Title: Opsins and differentially expressed phototransduction genes in Alpheus heterochaelis  
   
 This is my final report for my project on snapping shrimp eye transcriptomics!  
 For this project I wanted to look at what opsin genes are expressed in snapping shrimp.
