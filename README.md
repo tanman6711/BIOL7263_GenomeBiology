@@ -15,32 +15,40 @@ Class 1 - August 29th
 [test.sh](test.sh)
 
 Chapter 1: 
-Task 1
 [Task 1 sbatch](ecoli_fastqc.sbatch)
 [Task 2 sbatch](ecoli_fastqc.sh)
+
 [read 1 html](read_1_fastqc.html)
 [read 2 html](read_2_fastqc.html)
+
 [Proposal](proposal.pdf)
 [Task 2 sbatch](ecoli_trim.sbatch)
 [Task 2 sh](ecoli_trim.sh)
+
 [Task 5 sbatch](ecoli_index.sbatch)
 [Task 5 sh](ecoli_index.sh)
+
 [Task 6 sbatch](ecoli_bwa_mem.sbatch)
 [Task 6 sh](ecoli_bwa_mem.sh)
+
 [Task 7a sbatch](ecoli_samtools_view.sbatch)
 [Task 7a sh](ecoli_samtools_view.sh)
 [Task 7b sbatch](ecoli_map_sort.sbatch)
 [Task 7b sh](ecoli_map_sort.sh)
+
 [Task 8 sbatch](ecoli_markdup.sbatch)
 [Task 8 sh](ecoli_markdup.sh)
+
 [Task 11 sbatch](qualimap.sbatch)
 [Task 11 sh](qualimap.sh)
+
 [Task 14a sbatch](ecoli_vcf.sbatch)
 [Task 14a sh](ecoli_vcf.sh)
 [Task 14b sbatch](ecoli_call.sbatch)
 [Task 14b sh](ecoli_call.sh)
 [Task 14c sbatch](ecoli_filt.sbatch)
 [Task 14c sh](ecoli_filt.sbatch)
+
 [Task 15 sbatch](ecoli_cover.sbatch)
 [Task 15 sh](ecoli_cover.sh)
 
