@@ -22,7 +22,6 @@ Chapter 1:
 [read 1 html](read_1_fastqc.html)
 [read 2 html](read_2_fastqc.html)
 
-[Proposal](proposal.pdf)
 [Task 2 sbatch](ecoli_trim.sbatch)
 [Task 2 sh](ecoli_trim.sh)
 
@@ -124,6 +123,9 @@ Chapter 5:
 [Task 6k sbatch](minimap_flagstat.sbatch)
 [Task 6k sh](minimap_flagstat_sh)
 
+Project: 
+[Proposal](proposal.pdf)
+[Final project report](Project report.md)
 
 
 
