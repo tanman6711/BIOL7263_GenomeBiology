@@ -15,6 +15,7 @@ Class 1 - August 29th
 [test.sh](test.sh)
 
 Chapter 1: 
+
 [Task 1 sbatch](ecoli_fastqc.sbatch)
 [Task 2 sbatch](ecoli_fastqc.sh)
 
@@ -53,24 +54,32 @@ Chapter 1:
 [Task 15 sh](ecoli_cover.sh)
 
 Chapter 3: 
+
 [Task 1 sbatch](bam_to_fasta.sbatch)
 [Task 1 sh](bam_to_fasta.sh)
+
 [Task 3 sbatch](unmapped_spades.sbatch)
 [Task 3 sh](unmapped_spades.sh)
+
 [Task 4 sbatch](unmapped_quast.sbatch)
 [Task 4 sh](unmapped_quast.sh)
+
 [Task 6 sbatch](unmapped_orf.sbatch)
 [Task 6 sh](unmapped_orf.sh)
+
 [Task 7 sbatch](unmapped_pfam.sbatch)
 [Task 7 sh](unmapped_pfam.sh)
 
 Chapter 4: 
+
 [Task 1 sbatch](full_spades.sbatch)
 [Task 1 sh](full_spades.sh)
+
 [Task 3a sbatch](align_de_novo.sbatch)
 [Task 3a sh](align_de_novo.sh)
 [Task 3b sbatch](qualimap1.sbatch)
 [Task 3b sh](qualimap1.sh)
+
 [Task 5a sbatch](orfipy.sbatch)
 [Task 5a sh](orfipy.sh)
 [Task 5b sbatch](unmapped_pfam.sbatch)
@@ -79,14 +88,19 @@ Chapter 4:
 [Task 5c sh](orf_blast.sh)
 
 Chapter 5:
+
 [Task 2 sbatch](pseudomonas_fastq.sbatch)
 [Task 2 sh](pseudomonas_fastqc.sh)
+
 [Task 3 sbatch](pseudo_trim.sbatch)
 [Task 3 sh](pseudo_trim.sh)
+
 [Task 4 sbatch](pseud_short_assembly.sbatch)
 [Task 4 sh](pseud_short_assembly.sh)
+
 [Task 5 sbatch](pseud_long_assembly.sbatch)
 [Task 5 sh](pseud_long_assembly.sh)
+
 [Task 6a sbatch](pseudo_index.sbatch)
 [Task 6a sh](psuedo_index.sh)
 [Task 6b sbatch](bwa_mem.sbatch)
