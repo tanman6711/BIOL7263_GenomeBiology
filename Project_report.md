@@ -10,7 +10,7 @@ light or dark adapted! Thus, my adventure began!
 
 # Project Outline
 My project had 10 steps:
-![Project Outline Figure](MethodsFigure)
+![Project Outline Figure](outline.png)
 
  
 
