@@ -8,6 +8,9 @@ between animals that were light and dark adapted. Currently there is no work don
 opsin genes are found in snapping shrimp or how they regulate phototransduction genes when
 light or dark adapted! Thus, my adventure began!  
 
+# Project Outline
+My project had 10 steps:
+![Project Outline Figure](MethodsFigure)
 
-
+ 
 
