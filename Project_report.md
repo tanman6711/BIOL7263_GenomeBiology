@@ -72,6 +72,41 @@ Here are the samples I used and their treatment groups
 
 [Trim sbatch](trim.sbatch)
 
-[Trim sh](trim.sh) 
+[Trim sh](trim.sh)
+
+- Trimmed files
+
+
+[1E_S11_Trim1](1E_S11_trimmed.fastq.gz)
+
+[1E_S11_Trim2](1E_S11_trimmed2.fastq.gz)
+
+[2E_S13_Trim1](2E_S13_trimmed.fastq.gz)
+
+[2E_S13_Trim2](2E_S13_trimmed2.fastq.gz)
+
+[3E_S15_Trim1](3E_S15_trimmed.fastq.gz)
+
+[3E_S15_Trim2](3E_S15_trimmed1.fastq.gz)
+
+[4E_S17_Trim1](4E_S17_trimmed.fastq.gz)
+
+[4E_S17_Trim2](4E_S17_trimmed2.fastq.gz)
+
+[5E_S19_Trim1](5E_S19_trimmed.fastq.gz)
+
+[5E_S19_Trim2](5E_S19_trimmed1.fastq.gz)
+
+[6E_S21_Trim1](6E_S21_trimmed.fastq.gz)
+
+[6E_S21_Trim2](6E_S21_trimmed1.fastq.gz)
+
+[7E_S23_Trim1](7E_S23_trimmed.fastq.gz)
+
+[7E_S23_Trim2](7E_S23_trimmed1.fastq.gz)
+
+
+ 
+ 
 
 
