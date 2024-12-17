@@ -29,6 +29,8 @@ Here are the samples I used and their treatment groups
 
 # Project steps:
 1. Fast QC
+
+
 [Array FastQC sbatch](fastqc_array.sbatch)
 
 
