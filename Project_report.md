@@ -68,5 +68,10 @@ Here are the samples I used and their treatment groups
 
 [7E R2 QC FastQC HTML](/fastqc_results_project/7E_S23_R2_001_fastqc.html)
 
-2. Trim the 
+2. Trim the raw transcriptome FASTA files
+
+[Trim sbatch](trim.sbatch)
+
+[Trim sh](trim.sh) 
+
 
