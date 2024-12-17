@@ -30,30 +30,32 @@ Here are the samples I used and their treatment groups
 # Project steps:
 1. Fast QC
 - Light adapted: 
-[1E QC sh]
+[1E R1 QC FastQC HTML](/fastqc_results_project/1E_S11_R1_001_fastqc.html)
 
-[1E QC sbatch]
+[1E R2 QC FastQC HTML](/fastqc_results_project/1E_S11_R2_001_fastqc.html)
 
-[2E QC sh]
+[2E R1 QC FastQC HTML](/fastqc_results_project/2E_S13_R1_001_fastqc.html)
 
-[2E QC sbatch]
+[2E R2 QC FastQC HTML](/fastqc_results_project/2E_S13_R2_001_fastqc.html)
 
-[3E QC sh]
+[3E R1 QC FastQC HTML](/fastqc_results_project/3E_S15_R1_001_fastqc.html)
 
-[3E QC sbatch]
+[3E R2 QC FastQC HTML](/fastqc_results_project/3E_S15_R2_001_fastqc.html)
 
-[4E QC sh]
+[4E R1 QC FastQC HTML](/fastqc_results_project/4E_S17_R1_001_fastqc.html)
 
-[4E QC sbatch]
+[4E R2 QC FastQC HTML](/fastqc_results_project/4E_S17_R2_001_fastqc.html)
 
-[5E QC sh]
+- Dark adapted: 
+[5E R1 QC FastQC HTML](/fastqc_results_project/5E_S19_R1_001_fastqc.html)
 
-[5E QC sbatch]
+[5E R2 QC FastQC HTML](/fastqc_results_project/5E_S19_R2_001_fastqc.html)
 
-[6E QC sh]
+[6E R1 QC FastQC HTML](/fastqc_results_project/6E_S21_R1_001_fastqc.html)
 
-[6E QC sbatch]
+[6E R2 QC FastQC HTML](/fastqc_results_project/6E_S21_R2_001_fastqc.html)
 
-[7E QC sh]
+[7E R1 QC FastQC HTML](/fastqc_results_project/7E_S23_R1_001_fastqc.html)
 
-[7E QC sbatch]
+[7E R2 QC FastQC HTML](/fastqc_results_project/7E_S23_R2_001_fastqc.html)
+
