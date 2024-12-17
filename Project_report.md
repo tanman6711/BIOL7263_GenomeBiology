@@ -105,6 +105,16 @@ Here are the samples I used and their treatment groups
 
 [7E_S23_Trim2](7E_S23_trimmed1.fastq.gz)
 
+3. Run RNASpades to create a de novo
+
+[RNA Spades sh](project_RNASpades_assembly.sh)
+
+[RNA Spades sbatch](project_RNASpades_assembly.sbatch)
+
+- [assembly FASTA file](transcripts.fasta)
+
+
+
 
  
  
