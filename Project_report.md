@@ -29,6 +29,9 @@ Here are the samples I used and their treatment groups
 
 # Project steps:
 1. Fast QC
+[Array FastQC sbatch](fastqc_array.sbatch)
+
+
 - Light adapted:
 
  
@@ -62,4 +65,6 @@ Here are the samples I used and their treatment groups
 [7E R1 QC FastQC HTML](/fastqc_results_project/7E_S23_R1_001_fastqc.html)
 
 [7E R2 QC FastQC HTML](/fastqc_results_project/7E_S23_R2_001_fastqc.html)
+
+2. Trim the 
 
