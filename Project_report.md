@@ -29,7 +29,8 @@ Here are the samples I used and their treatment groups
 
 # Project steps:
 1. Fast QC
-- Light adapted: 
+- Light adapted:
+ 
 [1E R1 QC FastQC HTML](/fastqc_results_project/1E_S11_R1_001_fastqc.html)
 
 [1E R2 QC FastQC HTML](/fastqc_results_project/1E_S11_R2_001_fastqc.html)
@@ -46,7 +47,8 @@ Here are the samples I used and their treatment groups
 
 [4E R2 QC FastQC HTML](/fastqc_results_project/4E_S17_R2_001_fastqc.html)
 
-- Dark adapted: 
+- Dark adapted:
+ 
 [5E R1 QC FastQC HTML](/fastqc_results_project/5E_S19_R1_001_fastqc.html)
 
 [5E R2 QC FastQC HTML](/fastqc_results_project/5E_S19_R2_001_fastqc.html)
