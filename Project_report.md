@@ -174,7 +174,7 @@ for DEG analyses
 
 [DEG R script](DEGAnalysis.R)
 
-- De Novo Results
+- # De Novo Results
 
 
 ![De novo volcano plot](denovovolcanoplot.png)
@@ -186,7 +186,7 @@ in the volcano plot, which is a large RNA subunit gene. We also don't find any d
 genes between the light and dark adapted treatments. Now, let's check out the results from alignment 
 to the reference transcriptome!
 
-- Reference Results
+- # Reference Results
 
 
 
