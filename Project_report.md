@@ -105,13 +105,66 @@ Here are the samples I used and their treatment groups
 
 [7E_S23_Trim2](7E_S23_trimmed1.fastq.gz)
 
-3. Run RNASpades to create a de novo
+3. Run RNASpades to create a de novo assembly 
 
 [RNA Spades sh](project_RNASpades_assembly.sh)
 
 [RNA Spades sbatch](project_RNASpades_assembly.sbatch)
 
 - [assembly FASTA file](transcripts.fasta)
+
+
+4. Use diamond to annotate assembly with vision genes from NCBI 
+
+[Vision genes from NCBI](invertopsins.fasta)
+
+[Make diamond database file sh](diamond_mkdb.sh)
+
+[Make diamond database file sbatch](diamond_mkdb.sbatch)
+
+[annotation sh](annotation_file.sh)
+
+[annotation sbatch](annotation_file.sbatch)
+
+[annotation results](annotation_results.blast)
+
+
+5. Use kallisto to quantify and pseudoalign/align untrimmed reads via an array
+
+
+To do this I used these files and changed the input files to represent the alignment to the de novo
+assembly OR the alignment to the refrence transcriptome:
+
+[kallisto quant sh](kallisto_quant.sh)
+
+[kallisto quant sbatch](kallisto_quant.sbatch)
+
+[kallisto args](kallisto_quant.args)
+
+[Annotation with augustus sh](run_augustus_annotation.sh)
+
+[Annotation with augustus sbatch](run_augustus_annotation.sbatch)
+
+
+- Files specific to aligning to the de novo assembly
+
+[kalisto ID sh](kallisto_id_de_novo.sh)
+
+[kallisto ID sbatch](kallisto_id_de_novo.sbatch)
+
+
+- Files specific to aligning to reference transcriptome of P. japonicus
+
+
+[kallisto ID sh](kallisto_ID_reference_transcriptome.sh)
+
+[kallisto ID sbatch](kallisto_ID_reference_transcriptome.sbatch)
+
+
+- Resulting files
+
+[]
+
 
 
 
