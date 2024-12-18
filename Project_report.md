@@ -174,14 +174,35 @@ for DEG analyses
 
 [DEG R script](DEGAnalysis.R)
 
+- De Novo Results
+
 
 ![De novo volcano plot](denovovolcanoplot.png)
 
 ![De novo heat map](denovoheatmap.png)
 
+What we can see with the De Novo results is that we only have one gene that is significantly expressed
+in the volcano plot, which is a large RNA subunit gene. We also don't find any differentially expressed
+genes between the light and dark adapted treatments. Now, let's check out the results from alignment 
+to the reference transcriptome!
+
+- Reference Results
+
+
+
 ![Reference volcano plot](referencevolcano.png)
 
 ![Reference heat map](refheatmap.png)
+
+What we find with the results from aligning our untrimmed reads to a reference transcriptome is first
+that we have a lot less hits, likely because the reference shrimp is not closely related to our experimental 
+species BUT it was the best we could get from available transcriptomes! Unfortunately, we don't get 
+any major hits for differential expression amongst light treatments nor. 
+
+# Conclusions 
+
+
+
 
 
 
