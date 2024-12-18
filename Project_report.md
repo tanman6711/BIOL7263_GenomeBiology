@@ -174,3 +174,14 @@ for DEG analyses
 
 [DEG R script](DEGAnalysis.R)
 
+
+[De novo volcano plot]()
+
+[De novo heat map]()
+
+[Reference volcano plot]()
+
+[Reference heat map]()
+
+
+
