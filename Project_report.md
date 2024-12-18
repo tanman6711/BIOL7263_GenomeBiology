@@ -169,10 +169,8 @@ assembly OR the alignment to the refrence transcriptome:
 [reference TTC result](TTC_headers_PJ.txt)
 
 
+6. Use R Studio packages pheatmap, sleuth, dev tools, and EnhancedVolcano to create heat maps
+for DEG analyses 
 
-
-
- 
- 
-
+[DEG R script](DEGAnalysis.R)
 
