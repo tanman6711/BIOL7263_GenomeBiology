@@ -1,8 +1,8 @@
 # Final project report  
-# Title: Opsins and differentially expressed phototransduction genes in Alpheus heterochaelis  
+# Title: Opsins and differentially expressed phototransduction genes in *Alpheus heterochaelis*  
   
 This is my final report for my project on snapping shrimp eye transcriptomics!  
-For this project I wanted to look at what opsin genes are expressed in snapping shrimp.
+For this project I wanted to look at what opsin genes are expressed in *A. heterochaelis*.
 I also wanted to look at differential expression in genes related to phototransduction
 between animals that were light and dark adapted. Currently there is no work done on what
 opsin genes are found in snapping shrimp or how they regulate phototransduction genes when
@@ -13,19 +13,19 @@ My project had 10 steps:
 ![Project Outline Figure](outline.png)  
 # Samples  
 Here are the samples I used and their treatment groups
-1E - Light adapted A. heterochaelis
+1E - Light adapted *A. heterochaelis*
  
-2E - Light adapted A. heterochaelis
+2E - Light adapted *A. heterochaelis*
 
-3E - Light adapted A. heterochaelis
+3E - Light adapted *A. heterochaelis*
  
-4E - Light adapted A. heterochaelis
+4E - Light adapted *A. heterochaelis*
  
-5E - Dark adapted A. heterochaelis
+5E - Dark adapted *A. heterochaelis*
 
-6E - Dark adapted A. heterochaelis
+6E - Dark adapted *A. heterochaelis*
  
-7E - Dark adapted A. heterochaelis  
+7E - Dark adapted *A. heterochaelis*  
 
 # Project steps:
 1. Fast QC
@@ -153,7 +153,7 @@ assembly OR the alignment to the refrence transcriptome:
 [kallisto ID sbatch](kallisto_id_de_novo.sbatch)
 
 
-- Files specific to aligning to reference transcriptome of P. japonicus
+- Files specific to aligning to reference transcriptome of *P. japonicus*
 
 
 [kallisto ID sh](kallisto_ID_reference_transcriptome.sh)
@@ -199,10 +199,12 @@ that we have a lot less hits, likely because the reference shrimp is not closely
 species BUT it was the best we could get from available transcriptomes! Unfortunately, we don't get 
 any major hits for differential expression amongst light treatments nor. 
 
-# Conclusions 
+# Conclusions
 
-
-
-
-
-
+ 
+The two main questions for my project were 1. what opsin genes are found in the snapping shrimp, Alpheus
+heterochaelis, and 2. are any genes related to vision and/or phototransduction differentially expressed
+between light or dark adapted treatments. From this project, I have found that *A. heterochaelis* has at least
+three different opsin genes: Rhdopopsin (LWS), UV/blue opsin (SWS), and BCRH2 (MWS). The finding of the UV
+opsin is particularly exciting because Dr. Kingston has found what looks like to be a bump 
+in the UV from snapping shrimp retinas in microspectrophotometry data. 
