@@ -163,7 +163,8 @@ assembly OR the alignment to the refrence transcriptome:
 
 - Resulting files
 
-[]
+[de novo TTC result](TTC_headers_denovo.txt)
+[reference genes result](TTC_headers_PJ.txt)
 
 
 
