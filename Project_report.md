@@ -197,14 +197,20 @@ to the reference transcriptome!
 What we find with the results from aligning our untrimmed reads to a reference transcriptome is first
 that we have a lot less hits, likely because the reference shrimp is not closely related to our experimental 
 species BUT it was the best we could get from available transcriptomes! Unfortunately, we don't get 
-any major hits for differential expression amongst light treatments nor. 
+any major hits for differential expression amongst light treatments nor.
+ 
 
 # Conclusions
 
  
-The two main questions for my project were 1. what opsin genes are found in the snapping shrimp, Alpheus
-heterochaelis, and 2. are any genes related to vision and/or phototransduction differentially expressed
+The two main questions for my project were 1. what opsin genes are found in the snapping shrimp, *Alpheus
+heterochaelis*, and 2. are any genes related to vision and/or phototransduction differentially expressed
 between light or dark adapted treatments. From this project, I have found that *A. heterochaelis* has at least
 three different opsin genes: Rhdopopsin (LWS), UV/blue opsin (SWS), and BCRH2 (MWS). The finding of the UV
 opsin is particularly exciting because Dr. Kingston has found what looks like to be a bump 
-in the UV from snapping shrimp retinas in microspectrophotometry data. 
+in the UV from snapping shrimp retinas in microspectrophotometry data. This finding inspires me to 
+start up some TEM data on *A. heterochaelis* eyes to look for the retinular cell #8 in the ommatidium
+cross sections. Unfortunately, I didn't find any trends or major results in the differential expression 
+analyses. This could be due to the poor RNA quality (these specimens were in RNA later for 2 years) or
+that light adaptation doesn't cause any significant changes in vision related gene expression. Further experimentation
+will be needed to find the answers to these questions!
