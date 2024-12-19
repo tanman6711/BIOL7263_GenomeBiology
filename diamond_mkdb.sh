@@ -1,0 +1,1 @@
+diamond makedb --in invertopsins.fasta -d invertopsins
