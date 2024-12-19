@@ -156,6 +156,10 @@ assembly OR the alignment to the refrence transcriptome:
 - Files specific to aligning to reference transcriptome of *P. japonicus*
 
 
+This reference transcriptome was obtained from the NCBI genome assembly database. The reference genome
+itself was created by the Laboratory of Genome Science at the Graduate School of Marine Science and 
+Technology at Tokyo University. The zipped .fna file along with links to the assembly are included below. 
+
 [kallisto ID sh](kallisto_ID_reference_transcriptome.sh)
 
 [kallisto ID sbatch](kallisto_ID_reference_transcriptome.sbatch)
