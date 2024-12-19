@@ -148,9 +148,9 @@ assembly OR the alignment to the refrence transcriptome:
 
 - Files specific to aligning to the de novo assembly
 
-[kalisto ID sh](kallisto_id_de_novo.sh)
+[kalisto ID sh](kallisto_ID_DN.sh)
 
-[kallisto ID sbatch](kallisto_id_de_novo.sbatch)
+[kallisto ID sbatch](kallisto_ID_DN.sbatch)
 
 
 - Files specific to aligning to reference transcriptome of *P. japonicus*
