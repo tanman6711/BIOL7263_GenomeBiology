@@ -160,6 +160,11 @@ assembly OR the alignment to the refrence transcriptome:
 
 [kallisto ID sbatch](kallisto_ID_reference_transcriptome.sbatch)
 
+[Link for reference genome assembly](https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_017312705.1/)
+
+[reference assembly file](GCF_017312705.1_Mj_TUMSAT_v1.0_rna_from_genomic.fna.gz)
+
+
 
 - Resulting files
 
