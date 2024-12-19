@@ -120,7 +120,7 @@ Here are the samples I used and their treatment groups
 
 [Make diamond database file sh](diamond_mkdb.sh)
 
-[Make diamond database file sbatch](diamond_mkdb.sbatch)
+[Make diamond database file sbatch](diamon_mkdb.sbatch)
 
 [annotation sh](annotation_file.sh)
 
